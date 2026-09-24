@@ -1,4 +1,13 @@
 {
   "format": 2,
-  "versions": []
+  "versions": [
+    {
+      "timestamp": "2026-09-24T15:13:25.503781203Z",
+      "game_versions": [
+        "26.3"
+      ],
+      "version_name": "1.0.0-mc26.3",
+      "depends_on": []
+    }
+  ]
 }
