@@ -5,10 +5,11 @@
   "name": "I Know What I'm Doing",
   "description": "Disable the pesky prompt when you load a world with experimental settings enabled",
   "authors": [
-    "IolaireEagle"
+    "IolaireEagle",
+    "ThatCuteOne"
   ],
   "contact": {
-    "repo": "https://github.com/iolaireeagle/ikwid"
+    "repo": "https://github.com/ThatCuteOne/ikwid"
   },
   "license": "GPL-3.0",
   "icon": "assets/ikwid/icon.png",
@@ -18,7 +19,6 @@
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
-    "fabric": "*",
     "minecraft": ">=${minecraft_version}"
   }
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ikwid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ikwid.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ikwid.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ikwid.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IKWID.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IKWID.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IKWID.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IKWID.test.iml" />
     </modules>
   </component>
 </project>
